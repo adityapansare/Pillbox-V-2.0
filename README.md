@@ -1,0 +1,2 @@
+# Pillbox-V-2.0
+Following project was taken up as a part of assessment program for the subject Programming Laboratory II (consists Android App Development). This project is based on the idea and has an objective goal which is to provide a simple and an attractive user interface for a Drug Store and its customers to order drugs and along with it, provide inventory control for the owners. Subsequently making it a state of art and a consistent system which will help many small-scale Drug Stores to go digital!
